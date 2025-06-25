@@ -1,6 +1,6 @@
 # Budget_Tracker
 
-# 💸 Budget Tracker with Pie Chart
+# Budget Tracker with Pie Chart
 
 Track your expenses by category and see a live pie chart powered by Chart.js!
 
@@ -22,4 +22,4 @@ Track your expenses by category and see a live pie chart powered by Chart.js!
 
 ## Live Link
 
-[Visit Live Budget Tracker](https://your-deployment-link.com)
+[Visit Live Budget Tracker](https://ganeshdornala.github.io/Budget_Tracker/)
